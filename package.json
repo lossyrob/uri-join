@@ -1,0 +1,23 @@
+{
+  "name": "uri-join",
+  "version": "1.0.0",
+  "description": "A `path.join` that handles URIs with protocols.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui qunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lossyrob/uri-join"
+  },
+  "keywords": [
+    "uri",
+    "join"
+  ],
+  "author": "Rob Emanuele <rdemanuele@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lossyrob/uri-join/issues"
+  },
+  "homepage": "https://github.com/lossyrob/uri-join"
+}
