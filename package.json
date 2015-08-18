@@ -1,6 +1,6 @@
 {
   "name": "uri-join",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A `path.join` that handles URIs with protocols.",
   "main": "index.js",
   "scripts": {

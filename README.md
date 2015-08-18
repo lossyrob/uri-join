@@ -10,5 +10,5 @@ Example:
 
 ```javascript
 uriJoin("/local/file", "path")         // '/local/file/path'
-uriJoin("s3://remote/file", "path")    // 's3://remote/file/pah'
+uriJoin("s3://remote/file", "path")    // 's3://remote/file/path'
 ```
