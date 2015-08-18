@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lossyrob/uri-join/issues"
   },
-  "homepage": "https://github.com/lossyrob/uri-join"
+  "homepage": "https://github.com/lossyrob/uri-join",
+  "dependencies": {
+    "url": "^0.10.3"
+  }
 }
